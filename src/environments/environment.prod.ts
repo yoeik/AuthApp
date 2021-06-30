@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrl: 'https://angular-back-front.herokuapp.com/api'
+
 };
